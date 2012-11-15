@@ -1,0 +1,19 @@
+{
+  "name": "node-tetrabbs",
+  "version": "0.0.0",
+  "description": "A Node.js module to parse TetraBBS posts to JSON",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sorahn/node-tetrabbs.git"
+  },
+  "author": "Daryl Roberts",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
