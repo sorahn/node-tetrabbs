@@ -15,5 +15,9 @@
   },
   "author": "Daryl Roberts",
   "license": "BSD",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "mocha": "~1.7.0",
+    "should": "~1.2.1"
+  }
 }
